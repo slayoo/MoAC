@@ -1,0 +1,6 @@
+pint
+scipy
+mendeleev
+siphon
+numpy
+matplotlib
