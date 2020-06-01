@@ -1,0 +1,2 @@
+python3-mpi4py
+mpi-default-bin
