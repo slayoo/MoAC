@@ -4,3 +4,5 @@ mendeleev
 siphon
 numpy
 matplotlib
+mpi4py
+ipywidgets
