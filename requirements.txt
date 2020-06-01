@@ -5,3 +5,4 @@ siphon
 numpy
 matplotlib
 ipywidgets
+mpi4py
